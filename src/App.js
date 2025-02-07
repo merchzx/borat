@@ -35,9 +35,9 @@ function App()
      {/* <Test1></Test1> 
      <Task3></Task3> */}
      {/* <MyApp></MyApp>  */}
-     <Profile artem = {userArtem}></Profile>     
+     {/* <Profile artem = {userArtem}></Profile>      */}
      {/* <Ifrender></Ifrender> */}
-     {/* <ShoppingList></ShoppingList> */}
+     <ShoppingList></ShoppingList>
      {/* <Card user = {user}></Card>
      <Card user = {user2}></Card> 
      <Card user = {user}></Card> */}
